@@ -17,8 +17,8 @@
 
                     <ul class="l-nav__cont mincho">
                         <li><a href="/intro/" class="l-nav__link">はじめに</a></li>
-                        <li><a href="/index.php#sec02" class="l-nav__link">ご挨拶</a></li>
-                        <li><a href="/index.php#sec03" class="l-nav__link">メッセージ</a></li>
+                        <li><a href="/index.html#sec02" class="l-nav__link">ご挨拶</a></li>
+                        <li><a href="/index.html#sec03" class="l-nav__link">メッセージ</a></li>
                         <li>
                             <p class="l-nav__parent">催事</p>
                             <ul class="l-nav__child">
